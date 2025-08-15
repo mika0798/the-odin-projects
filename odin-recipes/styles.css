@@ -24,6 +24,10 @@ a:hover {
     color: rgb(255, 255, 255);
 }
 
+a:visited {
+    color: rgb(255, 255, 255);
+}
+
 /* This section is for the index page styles */
 
 .big-container {
@@ -35,7 +39,7 @@ a:hover {
     color: rgb(255, 255, 255);
     background-color: bisque;
     border: 3px solid rgb(210, 105, 30);
-    box-shadow: 10px 10px 0px 0px rgba(210, 105, 30,1);;
+    box-shadow: 10px 10px 0px 0px rgba(210, 105, 30,1);
     border-radius: 6px;
 }
 
