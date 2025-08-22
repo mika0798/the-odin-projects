@@ -1,6 +1,6 @@
-/* * {
+* {
     outline: red solid 1px;
-} */
+}
 
 
 body {
@@ -65,9 +65,13 @@ a:visited {
     border-radius: 6px;
 }
 
+.chicken.mini-box {
+    margin-bottom: 8px;
+}
+
 .tag {
     margin:5px auto;
 }
-/* This section is for the recipe page styles */
+
 
 
