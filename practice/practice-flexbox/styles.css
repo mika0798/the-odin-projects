@@ -5,12 +5,27 @@
 }
 
 .menu-container {
+  display: flex;
   color: #fff;
   background-color: #5995DA;  /* Blue */
   padding: 20px 0;
+  justify-content: center;
 }
 
 .menu {
-  border: 1px solid #fff;  /* For debugging */
+  display: flex;
+  padding: 5px 10px;
+  justify-content: space-between;
   width: 900px;
+  /* border: 1px solid #fff;  */
+}
+
+.links {
+  display: flex;
+  justify-content: flex-end;
+  /* border: 1px solid #fff;   */
+}
+
+.login {
+  margin-left: 20px;
 }
